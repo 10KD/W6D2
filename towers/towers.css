@@ -1,0 +1,34 @@
+ul {
+  border-bottom: 10px solid black;
+  padding-bottom: 20px;
+  margin: 20px;
+  width: 400px;
+}
+
+li {
+
+  margin: 10px;
+  list-style: none;
+  height: 50px;
+  border-radius: 25px;
+}
+
+figure {
+  display: flex;
+  justify-content: space-around;
+}
+
+.small {
+  width: 50px;
+  background: blue;
+}
+
+.medium {
+  width: 100px;
+  background: yellow;
+}
+
+.large {
+  width: 150px;
+  background: green;
+}
